@@ -1,0 +1,5 @@
+.dockerignore
+.gcloudignore
+Dockerfile
+README.md
+cloudbuild.yaml
